@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+/* .detailsMap{
+  background-color: #61dafb;
+  box-sizing: border-box;
+} */
+
+.hello{
+  background-color: rgb(108, 106, 110);
+  padding:10px;
+}
