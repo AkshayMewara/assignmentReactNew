@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+/* .App{
+  background-image: url('/wp-1472336556881\ \(1\).jpg.crdownload');
+  background-repeat:repeat-y;
+  background-size:cover;
+  height: 1000px;
+} */
+
+.footer{
+  position: fixed;
+  width: 100%;
+  top:55rem;
+}
+
+/* .flexing {
+  display: flex;
+} */
+
+.button {
+  margin-right:10px;
+}
+
+
+.click {
+  margin-top:200px;
+  font-style: italic;
+}
